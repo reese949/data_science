@@ -5,7 +5,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 
 ## Projects Overview
 
-Here's a brief summary of the projects currently included in this repository:
+Here's a brief summary of the projects included in this repository:
 
 1. **june**: June is a heart disease prediction model powered by machine learning.
    - **Key Techniques**: Data cleaning, data preprocessing, data visualization, feature engineering, k-nearest neighbors algorithm.

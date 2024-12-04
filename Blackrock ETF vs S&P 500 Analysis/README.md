@@ -1,7 +1,7 @@
 # BlackRock ETF vs S&P 500 Performance Analysis
 
 ## Overview
-This project analyzes the historical performance of BlackRock IYW Exchange-Traded Funds (ETFs) in comparison to the S&P 500 index. By examining returns, volatility, and other financial metrics, we aim to provide insights into how BlackRock ETFs stack up against the broader market.
+This project **analyzes the historical performance** of **BlackRock IYW** Exchange-Traded Funds (ETFs) in comparison to the **S&P 500 index**. By examining returns, volatility, and other financial metrics, we aim to provide insights into how BlackRock ETFs stack up against the broader market.
 
 ## Objective
 The main goal of this project is to:

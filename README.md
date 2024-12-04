@@ -34,3 +34,8 @@ To get started with any of the projects in this repository, follow these steps:
    cd data_science
    pip install -r requirements.txt
    ```
+3. Navigate to the project folder and open the corresponding Jupyter notebook or Python script:
+   ```
+   cd project_name
+   jupyter notebook notebook_name.ipynb
+   ```

@@ -26,7 +26,7 @@ To get started with any of the projects in this repository, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/data_science.git
+   git clone https://github.com/reese949/data_science.git
    ```
 2. Install the required dependencies
    

@@ -29,6 +29,8 @@ To get started with any of the projects in this repository, follow these steps:
    git clone https://github.com/yourusername/data_science.git
    ```
 2. Install the required dependencies
-   ```cd data_science
-pip install -r requirements.txt
-```
+   
+   ```
+   cd data_science
+   pip install -r requirements.txt
+   ```

@@ -7,35 +7,10 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 
 Here's a brief summary of the projects currently included in this repository:
 
-1. **[Project Name #1]**: Description of the project (e.g., "Predicting house prices using linear regression").
-   - **Key Techniques**: Linear regression, feature engineering, data preprocessing.
+1. **june**: June is a heart disease prediction model powered by machine learning.
+   - **Key Techniques**: Data cleaning, data preprocessing, data visualization, feature engineering, k-nearest neighbors algorithm.
    - **Tools Used**: Pandas, Scikit-learn, Matplotlib.
 
-2. **[Project Name #2]**: Description of the project (e.g., "Sentiment analysis on movie reviews").
-   - **Key Techniques**: Natural Language Processing (NLP), text classification, word embeddings.
-   - **Tools Used**: NLTK, TensorFlow, Seaborn.
-
-3. **[Project Name #3]**: Description of the project (e.g., "Customer segmentation using k-means clustering").
-   - **Key Techniques**: Unsupervised learning, k-means clustering, data visualization.
-   - **Tools Used**: Scikit-learn, Seaborn, Plotly.
-  
-## Getting Started
-
-To get started with any of the projects in this repository, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```
-   git clone https://github.com/reese949/data_science.git
-   ```
-2. Install the required dependencies
-   
-   ```
-   cd data_science
-   pip install -r requirements.txt
-   ```
-3. Navigate to the project folder and open the corresponding Jupyter notebook or Python script:
-   ```
-   cd project_name
-   jupyter notebook notebook_name.ipynb
-   ```
+2. **Blackrock ETF vs S&P 500 Analysis**: This project analyzes the performance of BlackRock's IYW (ETF) compared to the S&P 500 index.
+   - **Key Techniques**: Data cleaning, data preprocessing, data visualization.
+   - **Tools Used**: Pandas, Matplotlib.

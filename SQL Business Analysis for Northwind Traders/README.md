@@ -1,4 +1,4 @@
-# SQL Sales Analysis for Northwind Traders
+# SQL Business Analysis for Northwind Traders
 
 **Created By:** Reese Oliver  
 **Date:** December 4, 2024

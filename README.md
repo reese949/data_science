@@ -15,6 +15,6 @@ Here's a brief summary of the projects included in this repository:
    - **Key Techniques**: Data cleaning, data preprocessing, data visualization.
    - **Tools Used**: Python, Pandas, Matplotlib.
 
-3. **[SQL Business Analysis for Northwind Traders](https://github.com/reese949/data_science/tree/main/SQL%20Business%20Analysis%20for%20Northwind%20Traders)**: Northwind Traders is an international gourmet food distributor. In this project, we delve into Northwind’s sales data to uncover key insights that will help the company's management accelerate business growth and sharpen the company's competitive edge.
+3. **[SQL Business Analysis for Northwind Traders](https://github.com/reese949/data_science/tree/main/SQL%20Business%20Analysis%20for%20Northwind%20Traders)**: Northwind Traders is an international gourmet food distributor. In this project, we delve into Northwind’s sales data to uncover key insights that will help the company's management accelerate business growth and sharpen Northwind's competitive edge.
    - **Key Techniques**: Window Functions, Common Table Expresssions (CTEs)
    - **Tools Used**: SQL, ipython-sql
